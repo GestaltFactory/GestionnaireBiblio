@@ -1,0 +1,11 @@
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\bin\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\bin\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.csprojResolveAssemblyReference.cache
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\bin\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\bin\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.csproj.AssemblyReference.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.csproj.CoreCompileInputs.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryBusinessRules\obj\Debug\ClassLibraryBusinessRules.pdb

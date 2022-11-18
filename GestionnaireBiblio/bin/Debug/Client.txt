@@ -1,0 +1,4 @@
+1|ghfyu|g|33|female|22|asd|22|j5j7d7|asdas|sdas|(766) 666-6666|h@hotmail.com|normal
+2|sadsa|dsads|2|male|11|sd|11|j2j6f6|asd|asd|(333) 344-4444|ad@gmail.com|employee
+2|gfh|gfh|5|male|45|dfgdfg|45|j4j7t7|hdh|gdh|(555) 555-5555|gfhfh@hotmail.com|employee|
+3|rter|dfgd|23|male|3|sxfsd|3|j5j6h7|dsfsd|sdf|(111) 111-1111|sdfdf@dsf.com|normal|

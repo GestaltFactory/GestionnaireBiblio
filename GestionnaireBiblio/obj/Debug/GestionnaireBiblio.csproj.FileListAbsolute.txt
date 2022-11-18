@@ -1,0 +1,59 @@
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe.config
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.pdb
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csprojResolveAssemblyReference.cache
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.FormGestBiblio.resources
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.Properties.Resources.resources
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.GenerateResource.Cache
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.exe
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.pdb
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmClient.resources
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmAuteur.resources
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmEditeur.resources
+D:\projects\C#\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmProduct.resources
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe.config
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.exe
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.pdb
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csprojResolveAssemblyReference.cache
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.FormGestBiblio.resources
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmAddProduct.resources
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.Properties.Resources.resources
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.GenerateResource.Cache
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.pdb
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmHR.resources
+E:\cSharp\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmInventory.resources
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe.config
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.exe
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.pdb
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csprojResolveAssemblyReference.cache
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmHR.resources
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.FormGestBiblio.resources
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmAddProduct.resources
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmInventory.resources
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.Properties.Resources.resources
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.GenerateResource.Cache
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.pdb
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryIOdata.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryIOdata.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe.config
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\GestionnaireBiblio.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryIOdata.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\bin\Debug\ClassLibraryIOdata.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.AssemblyReference.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmHR.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.FormGestBiblio.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmAddProduct.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.GUI.FrmInventory.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.Properties.Resources.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.GenerateResource.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.CoreCompileInputs.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.csproj.CopyComplete
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\GestionnaireBiblio\obj\Debug\GestionnaireBiblio.pdb

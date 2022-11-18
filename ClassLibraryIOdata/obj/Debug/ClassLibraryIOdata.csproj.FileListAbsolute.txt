@@ -1,0 +1,16 @@
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryIOdata.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryIOdata.pdb
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.csprojResolveAssemblyReference.cache
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.dll
+D:\Users\Yannick\Desktop\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryIOdata.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryIOdata.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryBusinessRules.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\bin\Debug\ClassLibraryBusinessRules.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.csproj.AssemblyReference.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.csproj.CoreCompileInputs.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.csproj.CopyComplete
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.dll
+D:\Users\Yannick\Desktop\Portfolio\project to review\programming\biblio\GestionnaireBiblio\ClassLibraryIOdata\obj\Debug\ClassLibraryIOdata.pdb

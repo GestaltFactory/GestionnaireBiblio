@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9C318686-CECE-4B7A-BBE8-9DE99A1B5570}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClassLibraryBusinessRules</RootNamespace>
+    <AssemblyName>ClassLibraryBusinessRules</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsAddress.cs" />
+    <Compile Include="ClsApps.cs" />
+    <Compile Include="ClsAuthor.cs" />
+    <Compile Include="ClsBook.cs" />
+    <Compile Include="ClsCd.cs" />
+    <Compile Include="ClsClient.cs" />
+    <Compile Include="ClsClientTransaction.cs" />
+    <Compile Include="ClsDistributor.cs" />
+    <Compile Include="ClsEmployee.cs" />
+    <Compile Include="ClsFullName.cs" />
+    <Compile Include="ClsGame.cs" />
+    <Compile Include="ClsGestionBiblio.cs" />
+    <Compile Include="ClsLearning.cs" />
+    <Compile Include="ClsMovie.cs" />
+    <Compile Include="ClsOrder.cs" />
+    <Compile Include="ClsPerson.cs" />
+    <Compile Include="ClsProduct.cs" />
+    <Compile Include="ClsPublisher.cs" />
+    <Compile Include="ClsReview.cs" />
+    <Compile Include="ClsSoftware.cs" />
+    <Compile Include="EnumAuthorGenre.cs" />
+    <Compile Include="EnumCategory.cs" />
+    <Compile Include="EnumCDIncluded.cs" />
+    <Compile Include="EnumClientType.cs" />
+    <Compile Include="EnumGenre.cs" />
+    <Compile Include="EnumJobTitle.cs" />
+    <Compile Include="EnumPersonType.cs" />
+    <Compile Include="EnumSexGenre.cs" />
+    <Compile Include="EnumSoftGenre.cs" />
+    <Compile Include="EnumSoftType.cs" />
+    <Compile Include="EnumStatus.cs" />
+    <Compile Include="EnumTypeItem.cs" />
+    <Compile Include="GameGenre.cs" />
+    <Compile Include="ITransaction.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
